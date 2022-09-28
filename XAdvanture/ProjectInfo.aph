@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>169BD807EDD19936093839163A9041EF87CEEA5EA76DF1E174A097474F9CBB85</Signature>
+  <Content>
+    <Project Guid="047e770a-57d9-42f7-9356-cd78f4f9b725">
+      <DisplayName Value="XAdvanture"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="bd2545a6-7637-44a2-9e1d-3933d893a710"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="637991607997948844"/>
+      <PartitionHash Value="660D6BC139EBEC2556BA9D6176124074960DB8CB177E0E06FBF009C7E09E8A00"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
