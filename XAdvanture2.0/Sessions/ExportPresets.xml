@@ -1,0 +1,36 @@
+<ExportPresets LastType="Unity3DExport">
+  <Preset DisplayName="" Type="XlsxExport">
+    <ExportSettings Type="XlsxExport">
+      <Filename>D:\Documents\XAdvanture.xlsx</Filename>
+      <TablePerGroup>1</TablePerGroup>
+      <GroupedBy>ObjectType</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <WhichName>DisplayName</WhichName>
+      <FeatureOrder>UsageCount</FeatureOrder>
+      <CollectStatistics>1</CollectStatistics>
+      <ExportMarkup>1</ExportMarkup>
+      <VariableOrder>Namespace</VariableOrder>
+      <ExportQueries>True</ExportQueries>
+      <PageSize>A4</PageSize>
+      <AutoOpenFile>1</AutoOpenFile>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="DocxExport">
+    <ExportSettings Type="DocxExport">
+      <Filename>D:\Documents\XAdvanture1.docx</Filename>
+      <PageSize>A4</PageSize>
+      <GroupedBy>Folder</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <HyperlinkOnReferences>1</HyperlinkOnReferences>
+      <ExportMethod>List</ExportMethod>
+      <IncludeImages>1</IncludeImages>
+      <SideBySideImages>1</SideBySideImages>
+      <InsertTableOfContents>0</InsertTableOfContents>
+      <IncludeTitlePage>1</IncludeTitlePage>
+      <IncludeTechnicalNames>1</IncludeTechnicalNames>
+      <ExportMarkup>1</ExportMarkup>
+      <AutoOpenFile>1</AutoOpenFile>
+      <ExportQueries>1</ExportQueries>
+    </ExportSettings>
+  </Preset>
+</ExportPresets>
