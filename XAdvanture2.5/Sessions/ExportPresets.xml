@@ -33,4 +33,18 @@
       <ExportQueries>1</ExportQueries>
     </ExportSettings>
   </Preset>
+  <Preset DisplayName="" Type="Unity3DExport">
+    <ExportSettings Type="Unity3DExport">
+      <Filename>E:\UnityProject\New Unity Project\Assets\XAdvanture.articyu3d</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="True"/>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037928194" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037928191</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
 </ExportPresets>
